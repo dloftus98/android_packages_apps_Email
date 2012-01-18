@@ -6,7 +6,7 @@ I have been using this on a motorola sholes for months with no issues.
 ## What to do?
 * Checkout the CyanogenMod repo
 * cd /android/system/packages/apps/Email
-* git pull https://dloftus98@github.com/dloftus98/android_packages_apps_Email.git
+* git pull https://github.com/dloftus98/android_packages_apps_Email.git
 
 After that you can build the entire update package and deploy it to your phone or if you build just the Email module you'll need to boot into recovery, remove the existing Email app and move in the new one.
 
